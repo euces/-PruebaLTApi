@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ventas.Infrastructure\Ventas.Infrastructure.csproj" />
+    <ProjectReference Include="..\Ventas.Interface\Ventas.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

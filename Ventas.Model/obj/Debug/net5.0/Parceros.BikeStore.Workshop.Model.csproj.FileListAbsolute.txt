@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\bin\Debug\net5.0\Parceros.BikeStore.Workshop.Model.deps.json
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\bin\Debug\net5.0\Parceros.BikeStore.Workshop.Model.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\bin\Debug\net5.0\Parceros.BikeStore.Workshop.Model.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\bin\Debug\net5.0\Parceros.BikeStore.Workshop.Model.dll
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\bin\Debug\net5.0\ref\Parceros.BikeStore.Workshop.Model.dll
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\bin\Debug\net5.0\Parceros.BikeStore.Workshop.Model.pdb
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.dll
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\ref\Parceros.BikeStore.Workshop.Model.dll
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.pdb
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Parceros Bike Store\Api\Parceros.BikeStore.Workshop\Parceros.BikeStore.Workshop.Model\obj\Debug\net5.0\Parceros.BikeStore.Workshop.Model.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ventas.Common\Ventas.Common.csproj" />
+    <ProjectReference Include="..\Ventas.Model\Ventas.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\bin\Debug\net5.0\Ventas.Common.deps.json
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\bin\Debug\net5.0\Ventas.Common.dll
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\bin\Debug\net5.0\ref\Ventas.Common.dll
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\bin\Debug\net5.0\Ventas.Common.pdb
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\Ventas.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\Ventas.Common.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\Ventas.Common.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\Ventas.Common.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\Ventas.Common.dll
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\ref\Ventas.Common.dll
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\Ventas.Common.pdb
+C:\Users\LENOVO\Desktop\PruebaTecnicaLT\Ventas\Ventas.Common\obj\Debug\net5.0\Ventas.Common.csproj.AssemblyReference.cache
